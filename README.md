@@ -2,6 +2,7 @@
 
 # [NeurIPS 2026] Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers
 
+
 <p>
   Yingying Yan<sup>1,∗</sup>,
   Jiaqi Tang<sup>2,∗</sup>,
@@ -14,6 +15,7 @@
   Jinjian Wu<sup>1</sup>,
   Qifeng Chen<sup>2</sup>
 </p>
+
 
 <p>
 <sup>1</sup>Northwestern Polytechnical University &nbsp;&nbsp;
