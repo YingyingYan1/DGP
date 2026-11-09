@@ -7,11 +7,11 @@
   Jiaqi Tang<sup>2,∗</sup>,
   Wei Wei<sup>1,†</sup>,
   Qianzhou Wang<sup>1</sup>,
+  Lei Zhang<sup>1</sup>,
   Jianmin Chen<sup>1</sup>,
   Yuyang Xia<sup>1</sup>,
   Botong Geng<sup>1</sup>,
   Jinjian Wu<sup>1</sup>,
-  Lei Zhang<sup>1</sup>,
   Qifeng Chen<sup>2</sup>
 </p>
 
