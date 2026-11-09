@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 
 # [NeurIPS 2026] Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers
@@ -169,6 +168,3 @@ If you find DGP useful in your research, please cite:
 This project is built on [LLaVA](https://github.com/haotian-liu/LLaVA). We thank the LLaVA authors for the training and evaluation codebase, and [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) for the evaluation toolkit.
 
 ---
-=======
-# DGP
->>>>>>> b13592d35abf6150add1a383735da4b17001ab73
