@@ -186,7 +186,12 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
+<<<<<<< HEAD
+   Copyright 2023 Haotian Liu / LLaVA authors
+   Copyright 2026 Yingying Yan
+=======
    Copyright [yyyy] [name of copyright owner]
+>>>>>>> b13592d35abf6150add1a383735da4b17001ab73
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
