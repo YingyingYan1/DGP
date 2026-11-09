@@ -39,7 +39,7 @@ Official repository for **DGP** (Dynamic Gated Pathways).
 ## 📰 News
 
 - [2026.11] [Paper](https://arxiv.org/abs/2611.06844) released on arXiv.
-- [2026.11] [DGP-7B](https://huggingface.co/Yingying11/DGP-7B) and [DGP-13B](https://huggingface.co/Yingying11/DGP-13B) released on Hugging Face.
+- [2026.11] Code released; [Models](https://huggingface.co/Yingying11/DGP-7B) released on Hugging Face.
 - [2026.09] 🎉 DGP was accepted by NeurIPS 2026.
 
 ---
